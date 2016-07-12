@@ -66,4 +66,4 @@
     <gap:splash src="Default-Landscape-736h.png" gap:platform="ios" width="2208" height="1242"/>
     <access origin="*"/>
     <allow-navigation href="*"/>
-<preference name="sbHostName" value="servicebus.windows.net"/><preference name="serviceNamespace" value="commontime-qa-sab"/><preference name="sasKeyName" value="RootManageSharedAccessKey"/><preference name="sasKey" value="eLs7+iKcpODJ5o0XPIUvFpa+nz8K4DCKPVWGHALM+SY="/><preference name="brokerType" value="queue"/><preference name="brokerAutoCreate" value="true"/><preference name="defaultPushSystem" value="azure"/><plugin name="com.commontime.mdesign.legacy.messaging" source="pgb"/></widget>
+<preference name="sbHostName" value="servicebus.windows.net"/><preference name="serviceNamespace" value="commontime-qa-sab"/><preference name="sasKeyName" value="RootManageSharedAccessKey"/><preference name="sasKey" value="eLs7+iKcpODJ5o0XPIUvFpa+nz8K4DCKPVWGHALM+SY="/><preference name="brokerType" value="queue"/><preference name="brokerAutoCreate" value="true"/><preference name="defaultPushSystem" value="azure.servicebus"/><plugin name="com.commontime.mdesign.legacy.messaging" source="pgb"/></widget>
